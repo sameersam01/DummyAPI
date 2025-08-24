@@ -1,54 +1,204 @@
 {
-  "quotes": [
+  "products": [
     {
       "id": 1,
-      "quote": "“If I have seen further it is by standing on the shoulders of giants.”",
-      "author": "Isaac Newton"
+      "name": "Wireless Bluetooth Headphones",
+      "price": 2499,
+      "currency": "INR",
+      "image": "https://example.com/images/headphones.jpg",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "Amit",
+          "comment": "Excellent sound quality and battery backup.",
+          "stars": 5
+        },
+        {
+          "user": "Priya",
+          "comment": "Very comfortable but slightly expensive.",
+          "stars": 4
+        }
+      ]
     },
     {
       "id": 2,
-      "quote": "“Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.”",
-      "author": "Albert Einstein"
+      "name": "Smart Fitness Band",
+      "price": 1599,
+      "currency": "INR",
+      "image": "https://example.com/images/fitness-band.jpg",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Rahul",
+          "comment": "Great features for the price, accurate tracking.",
+          "stars": 4
+        },
+        {
+          "user": "Sneha",
+          "comment": "Looks stylish and battery lasts long.",
+          "stars": 5
+        }
+      ]
     },
     {
       "id": 3,
-      "quote": "“Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.”",
-      "author": "Louis Pasteur"
+      "name": "Portable Power Bank",
+      "price": 999,
+      "currency": "INR",
+      "image": "https://example.com/images/powerbank.jpg",
+      "rating": 4.0,
+      "reviews": [
+        {
+          "user": "Karan",
+          "comment": "Charges fast but slightly heavy.",
+          "stars": 4
+        },
+        {
+          "user": "Megha",
+          "comment": "Value for money and durable build.",
+          "stars": 4
+        }
+      ]
     },
     {
       "id": 4,
-      "quote": "“Research is what I'm doing when I don't know what I'm doing.”",
-      "author": "Wernher von Braun"
+      "name": "Gaming Mechanical Keyboard",
+      "price": 3499,
+      "currency": "INR",
+      "image": "https://example.com/images/keyboard.jpg",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Vikram",
+          "comment": "Amazing tactile feedback and RGB lights.",
+          "stars": 5
+        },
+        {
+          "user": "Riya",
+          "comment": "Keys are a bit loud but great build.",
+          "stars": 4
+        }
+      ]
     },
     {
       "id": 5,
-      "quote": "“The good thing about science is that it's true whether or not you believe in it.”",
-      "author": "Neil deGrasse Tyson"
+      "name": "Full HD Webcam",
+      "price": 1999,
+      "currency": "INR",
+      "image": "https://example.com/images/webcam.jpg",
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "Neha",
+          "comment": "Clear picture quality and smooth streaming.",
+          "stars": 4
+        },
+        {
+          "user": "Anuj",
+          "comment": "Easy setup and good value for money.",
+          "stars": 5
+        }
+      ]
     },
     {
       "id": 6,
-      "quote": "“The important thing is not to stop questioning. Curiosity has its own reason for existing.”",
-      "author": "Albert Einstein"
+      "name": "Smart LED Bulb",
+      "price": 799,
+      "currency": "INR",
+      "image": "https://example.com/images/led-bulb.jpg",
+      "rating": 4.1,
+      "reviews": [
+        {
+          "user": "Ishita",
+          "comment": "Bright and energy efficient, app control is nice.",
+          "stars": 4
+        },
+        {
+          "user": "Aditya",
+          "comment": "Good color options and easy setup.",
+          "stars": 4
+        }
+      ]
     },
     {
       "id": 7,
-      "quote": "“Somewhere, something incredible is waiting to be known.”",
-      "author": "Carl Sagan"
+      "name": "Noise Cancelling Earbuds",
+      "price": 3499,
+      "currency": "INR",
+      "image": "https://example.com/images/earbuds.jpg",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Ankita",
+          "comment": "Great sound isolation and comfortable.",
+          "stars": 5
+        },
+        {
+          "user": "Rohit",
+          "comment": "Battery life could be better.",
+          "stars": 4
+        }
+      ]
     },
     {
       "id": 8,
-      "quote": "“The scientist is not a person who gives the right answers, he is one who asks the right questions.”",
-      "author": "Claude Lévi-Strauss"
+      "name": "4K Smart TV Stick",
+      "price": 2899,
+      "currency": "INR",
+      "image": "https://example.com/images/tv-stick.jpg",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user": "Sonia",
+          "comment": "Smooth streaming and easy to use.",
+          "stars": 5
+        },
+        {
+          "user": "Nikhil",
+          "comment": "Remote could have more features.",
+          "stars": 4
+        }
+      ]
     },
     {
       "id": 9,
-      "quote": "“It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring.”",
-      "author": "Carl Sagan"
+      "name": "Wireless Mouse",
+      "price": 699,
+      "currency": "INR",
+      "image": "https://example.com/images/mouse.jpg",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Manish",
+          "comment": "Lightweight and precise tracking.",
+          "stars": 4
+        },
+        {
+          "user": "Pooja",
+          "comment": "Battery lasts long and very comfortable.",
+          "stars": 5
+        }
+      ]
     },
     {
       "id": 10,
-      "quote": "“To invent, you need a good imagination and a pile of junk.”",
-      "author": "Thomas Edison"
+      "name": "USB-C Multiport Adapter",
+      "price": 1799,
+      "currency": "INR",
+      "image": "https://example.com/images/adapter.jpg",
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "Tanya",
+          "comment": "Works with multiple devices perfectly.",
+          "stars": 4
+        },
+        {
+          "user": "Sagar",
+          "comment": "Compact and durable design.",
+          "stars": 5
+        }
+      ]
     }
   ]
 }
